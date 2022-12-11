@@ -27,4 +27,10 @@ NextU Proyecto unidad 7 - Bases de datos
   <a href="mailto:hugocele@gmail.com"><img src="img/email.png" width="50" height="50"></a>
 </div>
 
+> Si es UBUNTU 20.04.5 LTS y los recursos de XAMPP estan en la carpeta /opt/lampp/htdocs, correr el comando
+
+>>>>>>> `$ bash moveProject.sh` 
+
+<br>
+
 <hr><hr>
