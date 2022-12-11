@@ -8,10 +8,15 @@ NextU Proyecto unidad 7 - Bases de datos
 
 <hr><hr><br>
 
+## Carpeta ./NODEJS_MONGODB
+
 <div align="center">
   <img src="img/NODE.png" width="500" height="500">
 </div>
 <br>
+
+## Carpeta ./PHP_MYSQL
+
 <div align="center">
   <img src="img/PHP.png" width="500" height="500">
 </div>
